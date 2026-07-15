@@ -2,37 +2,29 @@
 
 ### Information Systems student | Data analytics, automation, and project delivery
 
-I turn complex operational data into clear, usable decisions. I am currently studying Information Systems at the University of Texas at Arlington and bring hands-on experience in analytics, process improvement, and cross-functional project work across Microsoft, Blue Yonder, Collins Aerospace, and Aviation Week Network.
+I turn complex operational data into clear, usable decisions. I am currently studying Information Systems at the University of Texas at Arlington and bring hands-on experience in analytics, dashboard development, process improvement, and cross-functional project work across Microsoft, Blue Yonder, Collins Aerospace, and Aviation Week Network.
 
 - 🎓 B.S. Information Systems, UT Arlington (expected Spring 2027)
-- 📊 Interested in business intelligence, analytics engineering, automation, and AI-enabled workflows
+- 📊 Interested in data analytics, dashboard development, business intelligence, automation, and AI-enabled workflows
 - 🌱 Currently building stronger Python, SQL, Git/GitHub, and cloud analytics projects
 - 📍 Based in Texas / open to internships and collaborative projects
 
 ## Featured work
 
-### [Logistics Revenue Pipeline](https://github.com/Dallasb6974/dallasb6974.github.io)
-**PostgreSQL · Tableau · Data Analytics**
+### [HabitFlow](https://github.com/DallasBrown14/Project)
+**Python · FastAPI · SQLite · JavaScript · PWA · Analytics Dashboards**
 
-An end-to-end logistics analytics project that turns siloed CSV data into a usable reporting pipeline and interactive dashboard.
+A full-stack, NFC-powered habit tracker for fast personal logging and a polished mobile dashboard.
 
-- Analyzed $11.3M in revenue data across logistics datasets
-- Built a PostgreSQL ETL workflow and predictive Tableau dashboard
-- Identified a 91% warehouse-utilization break point associated with a 25% increase in delays
-
-[View the live dashboard](https://public.tableau.com/app/profile/dallas.brown2576/viz/SupplyChainLogisticsAnalysis/Dashboard1)
-
-### HabitFlow
-**Personal productivity · Product thinking · In progress**
-
-A habit-tracking project focused on helping users build consistent routines through simple tracking, progress visibility, and thoughtful user experience. I am developing HabitFlow as a portfolio project that brings together product planning, data-informed features, and practical automation.
-
-> A dedicated public repository and project walkthrough are coming soon.
+- Built a FastAPI and SQLite backend with user accounts, local authentication, event history, data export/import, and NFC-friendly event logging
+- Designed a mobile-first Progressive Web App with offline app-shell caching, install support, and an iOS-friendly home-screen experience
+- Created analytics dashboards with trend visuals, bar and donut charts, progress rings, heatmaps, activity calendars, streaks, and daily/weekly/monthly goal tracking
+- Integrated Apple Shortcuts and NFC tags to make habit logging fast and practical
 
 ### Lyfe - AI-Powered Symptom Capture & Provider Handoff
 **Microsoft Intern Hackathon 2026 · AI · Figma · GitHub**
 
-Project manager for a four-person team that built and presented a working demo in three days.
+Project manager for a four-person team that built and presented a working demo in three days, earning **2nd place** at the Microsoft Intern Hackathon 2026.
 
 - Owned scope, priorities, and delivery for the team
 - Helped validate end-to-end features, including AI chat, voice/photo capture, and symptom logging
@@ -40,8 +32,8 @@ Project manager for a four-person team that built and presented a working demo i
 
 ## Skills
 
-**Analytics & BI**  
-Power BI · Tableau · SQL · Excel · Power Query · Data Visualization · DAX
+**Analytics & BI**
+Power BI · Tableau · SQL · Excel · Power Query · Data Visualization · Dashboard Development · DAX
 
 **Technical**  
 Python · Git/GitHub · Azure DevOps · AI Agent Development · Process Automation · Data Quality Analysis
