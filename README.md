@@ -4,10 +4,10 @@
 
 I turn complex operational data into clear, usable decisions. I am currently studying Information Systems at the University of Texas at Arlington and bring hands-on experience in analytics, dashboard development, process improvement, and cross-functional project work across Microsoft, Blue Yonder, Collins Aerospace, and Aviation Week Network.
 
-- B.S. Information Systems, UT Arlington (expected Spring 2027)
-- Interested in data analytics, dashboard development, business intelligence, automation, and AI-enabled workflows
-- Currently building stronger Python, SQL, Git/GitHub, and cloud analytics projects
-- Based in Texas / open to internships and collaborative projects
+- 🎓 B.S. Information Systems, UT Arlington (expected Fall 2027)
+- 📊 Interested in data analytics, dashboard development, business intelligence, automation, and AI-enabled workflows
+- 🌱 Currently building stronger Python, SQL, Git/GitHub, and cloud analytics projects
+- 📍 Based in Texas / open to internships and collaborative projects
 
 ## Featured work
 
